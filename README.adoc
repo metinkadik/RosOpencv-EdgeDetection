@@ -1,0 +1,32 @@
+= RosOpencv-EdgeDetection 
+ 
+
+&#160;
+ 
+==== Edge detection in gazebo simulation using waffle pi robot
+
+
+** Run
+
+
+
+ rosrun opencv_ros imageProcess   
+ 
+image::images/edge.jpg[examp1]
+
+
+image::images/edge2.jpg[examp2]
+
+
+***
+ rosrun opencv_ros odometry   
+ 
+image::images/odom.jpg[odom]
+
+_Odometry data from the robot_
+
+***
+
+** rqt_graph
+
+image::images/rqt_graph.jpg[odom]
